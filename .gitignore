@@ -1,3 +1,4 @@
 .exe
 .dll
 node_modules
+bin
